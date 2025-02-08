@@ -1,0 +1,14 @@
+[2025-02-08 00:28:29.344 INFO] [EndstoneRuntime] Initialising...
+[2025-02-08 00:28:30.583 INFO] [Server] setting up server logging...
+[2025-02-08 00:28:30.589 INFO] [Server] Starting Server
+[2025-02-08 00:28:30.589 INFO] [Server] Version: 1.21.50.10
+[2025-02-08 00:28:30.589 INFO] [Server] Session ID: 3178c053-d24b-4b8c-950d-ed5eec84366d
+[2025-02-08 00:28:30.589 INFO] [Server] Build ID: 29566757
+[2025-02-08 00:28:30.589 INFO] [Server] Branch: r/21_u5
+[2025-02-08 00:28:30.589 INFO] [Server] Commit ID: 37da48010fdedb1b893d3a320c89e753f5b23a1b
+[2025-02-08 00:28:30.589 INFO] [Server] Configuration: Publish
+[2025-02-08 00:28:30.593 INFO] [Server] Level Name: Bedrock level
+[2025-02-08 00:28:30.600 INFO] [Server] No CDN config file found for dedicated server
+[2025-02-08 00:28:30.600 INFO] [Server] Game mode: 0 Survival
+[2025-02-08 00:28:30.600 INFO] [Server] Difficulty: 1 EASY
+[2025-02-08 00:28:30.612 INFO] [Server] Content logging to console is enabled.

@@ -1,0 +1,37 @@
+[2025-02-08 00:36:34.993 INFO] [EndstoneRuntime] Initialising...
+[2025-02-08 00:36:36.251 INFO] [Server] setting up server logging...
+[2025-02-08 00:36:36.257 INFO] [Server] Starting Server
+[2025-02-08 00:36:36.257 INFO] [Server] Version: 1.21.50.10
+[2025-02-08 00:36:36.257 INFO] [Server] Session ID: 9a1c4570-3bfe-4481-bcbd-3259447466b5
+[2025-02-08 00:36:36.257 INFO] [Server] Build ID: 29566757
+[2025-02-08 00:36:36.257 INFO] [Server] Branch: r/21_u5
+[2025-02-08 00:36:36.257 INFO] [Server] Commit ID: 37da48010fdedb1b893d3a320c89e753f5b23a1b
+[2025-02-08 00:36:36.257 INFO] [Server] Configuration: Publish
+[2025-02-08 00:36:36.261 INFO] [Server] Level Name: Bedrock level
+[2025-02-08 00:36:36.268 INFO] [Server] No CDN config file found for dedicated server
+[2025-02-08 00:36:36.268 INFO] [Server] Game mode: 0 Survival
+[2025-02-08 00:36:36.268 INFO] [Server] Difficulty: 1 EASY
+[2025-02-08 00:36:36.278 INFO] [Server] Content logging to console is enabled.
+[2025-02-08 00:36:42.282 INFO] [Server] Loading resource packs...
+[2025-02-08 00:36:42.770 INFO] [Server] This server is running Endstone version: 0.5.7.1 (Minecraft: 1.21.50)
+[2025-02-08 00:37:10.119 INFO] [BioManage] Loading bio_management v0.4.0
+[2025-02-08 00:37:10.121 INFO] [BioManage] on_load is called!
+[2025-02-08 00:37:10.126 INFO] [BioManage] Loaded Discord Bot Successfully!
+[2025-02-08 00:37:10.234 INFO] [Database] Opening level 'worlds/Bedrock level/db'
+[2025-02-08 00:37:11.393 INFO] [Server] [SERVER] Pack Stack - None
+[2025-02-08 00:37:18.747 INFO] [Network] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-02-08 00:37:18.748 INFO] [Network] IPv6 supported, port: 19133: Used for gameplay
+[2025-02-08 00:37:18.929 INFO] [Server] Server started.
+[2025-02-08 00:37:18.929 INFO] [Server] ================ TELEMETRY MESSAGE ===================
+[2025-02-08 00:37:18.929 INFO] [Server] Server Telemetry is currently not enabled.
+[2025-02-08 00:37:18.930 INFO] [Server] Enabling this telemetry helps us improve the game.
+[2025-02-08 00:37:18.930 INFO] [Server] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-02-08 00:37:18.930 INFO] [Server] to the server.properties file in the handheld/src-server directory
+[2025-02-08 00:37:18.930 INFO] [Server] ======================================================
+[2025-02-08 00:37:19.023 INFO] [BioManage] Enabling bio_management v0.4.0
+[2025-02-08 00:37:19.023 INFO] [BioManage] on_enable is called!
+[2025-02-08 00:37:19.026 INFO] [BioManage] ServerLoadEvent is passed to on_server_load
+[2025-02-08 00:38:05.864 INFO] [Server] Server stop requested.
+[2025-02-08 00:38:05.912 INFO] [Server] Stopping server...
+[2025-02-08 00:38:06.108 INFO] [BioManage] Disabling bio_management v0.4.0
+[2025-02-08 00:38:06.108 INFO] [BioManage] on_disable is called!

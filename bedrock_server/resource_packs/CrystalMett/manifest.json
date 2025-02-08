@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§l§3Crystal §bMett",
+        "name": "§l§3Crystal §bMett",
+        "uuid": "95b3fc70-30b1-4266-8252-8981fa46d67a",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 21, 40 ]
+    },
+    "modules": [
+        {
+            "description": "§l§3Crystal §bMett",
+            "type": "resources",
+            "uuid": "58a77950-443a-4ed7-8995-de1c61913561",
+            "version": [0, 0, 1]
+        }
+    ]
+}

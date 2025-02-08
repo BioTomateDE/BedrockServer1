@@ -1,0 +1,61 @@
+[2025-02-08 00:38:35.759 INFO] [EndstoneRuntime] Initialising...
+[2025-02-08 00:38:36.943 INFO] [Server] setting up server logging...
+[2025-02-08 00:38:36.949 INFO] [Server] Starting Server
+[2025-02-08 00:38:36.949 INFO] [Server] Version: 1.21.50.10
+[2025-02-08 00:38:36.949 INFO] [Server] Session ID: e422b1fd-e824-4b60-8638-bf7456b8bed3
+[2025-02-08 00:38:36.949 INFO] [Server] Build ID: 29566757
+[2025-02-08 00:38:36.949 INFO] [Server] Branch: r/21_u5
+[2025-02-08 00:38:36.949 INFO] [Server] Commit ID: 37da48010fdedb1b893d3a320c89e753f5b23a1b
+[2025-02-08 00:38:36.949 INFO] [Server] Configuration: Publish
+[2025-02-08 00:38:36.953 INFO] [Server] Level Name: Kit PvP
+[2025-02-08 00:38:36.961 INFO] [Server] No CDN config file found for dedicated server
+[2025-02-08 00:38:36.961 INFO] [Server] Game mode: 0 Survival
+[2025-02-08 00:38:36.961 INFO] [Server] Difficulty: 1 EASY
+[2025-02-08 00:38:36.972 INFO] [Server] Content logging to console is enabled.
+[2025-02-08 00:38:43.479 INFO] [Server] Loading resource packs...
+[2025-02-08 00:38:43.987 INFO] [Server] This server is running Endstone version: 0.5.7.1 (Minecraft: 1.21.50)
+[2025-02-08 00:39:10.689 INFO] [BioManage] Loading bio_management v0.4.0
+[2025-02-08 00:39:10.690 INFO] [BioManage] on_load is called!
+[2025-02-08 00:39:10.695 INFO] [BioManage] Loaded Discord Bot Successfully!
+[2025-02-08 00:39:10.800 INFO] [Database] Opening level 'worlds/Kit PvP/db'
+[2025-02-08 00:39:11.847 INFO] [Server] [SERVER] Pack Stack - [00][Biologisches KitFFA Plugin] [packid_ver][2a701cca-261f-4bb2-bce4-f0275c71414e_0.1.0] [path][behavior_packs/kitffa]
+[2025-02-08 00:39:19.119 INFO] [Network] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-02-08 00:39:19.119 INFO] [Network] IPv6 supported, port: 19133: Used for gameplay
+[2025-02-08 00:39:19.299 INFO] [Server] Server started.
+[2025-02-08 00:39:19.303 INFO] [Server] ================ TELEMETRY MESSAGE ===================
+[2025-02-08 00:39:19.303 INFO] [Server] Server Telemetry is currently not enabled.
+[2025-02-08 00:39:19.303 INFO] [Server] Enabling this telemetry helps us improve the game.
+[2025-02-08 00:39:19.303 INFO] [Server] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-02-08 00:39:19.303 INFO] [Server] to the server.properties file in the handheld/src-server directory
+[2025-02-08 00:39:19.303 INFO] [Server] ======================================================
+[2025-02-08 00:39:19.327 INFO] [Server] Loaded Crystal Mett v0.0.1 (Pack ID: 95b3fc70-30b1-4266-8252-8981fa46d67a) 
+[2025-02-08 00:39:19.346 INFO] [BioManage] Enabling bio_management v0.4.0
+[2025-02-08 00:39:19.346 INFO] [BioManage] on_enable is called!
+[2025-02-08 00:39:19.350 INFO] [BioManage] ServerLoadEvent is passed to on_server_load
+[2025-02-08 00:44:38.217 ERROR] [Server] Unknown command: . Please check that the command exists and that you have permission to use it.
+[2025-02-08 00:44:38.867 ERROR] [Server] Unknown command: . Please check that the command exists and that you have permission to use it.
+[2025-02-08 00:44:40.476 INFO] [Server] --- Showing help page 1 of 7 (/help <page>) ---
+[2025-02-08 00:44:40.476 INFO] [Server] /? <page: int>
+/? [command: CommandName]
+/about
+/about [bio_management]
+/ban <name: string> [reason: message]
+/ban <name: target> [reason: message]
+/ban-ip <address: string> [reason: message]
+[2025-02-08 00:44:40.476 INFO] [Server] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[2025-02-08 00:44:42.674 INFO] [Server] This server is running Endstone version: 0.5.7.1 (Minecraft: 1.21.50)
+[2025-02-08 00:44:59.552 ERROR] [Server] Unknown command: aboutz. Please check that the command exists and that you have permission to use it.
+[2025-02-08 00:45:01.102 INFO] [Server] This server is running Endstone version: 0.5.7.1 (Minecraft: 1.21.50)
+[2025-02-08 00:45:06.662 INFO] [Server] bio_management v0.4.0
+[2025-02-08 00:45:06.663 INFO] [Server] MCBE Endstone General Purpose Plugin (Server Management)
+[2025-02-08 00:45:06.663 INFO] [Server] Website: Endstone, https://github.com/EndstoneMC/
+[2025-02-08 00:45:06.663 INFO] [Server] Author: BioTomateDE <biotomatede@gmail.com>
+[2025-02-08 00:45:10.067 ERROR] [Server] Unknown command: [A[D[D[D[C[A[B. Please check that the command exists and that you have permission to use it.
+[2025-02-08 00:45:20.686 INFO] [Database] Running AutoCompaction...
+[2025-02-08 00:45:24.092 ERROR] [Server] Unknown command: [D[C[C[A[B[A[A[A[A[C[A[D[B[A[B[D[C[A[C[A[A[B[C[D[A[B[C[A[B[C[D[A[B[C[D[A[B[C[A[D. Please check that the command exists and that you have permission to use it.
+[2025-02-08 00:46:16.179 ERROR] [Server] Unknown command: stio. Please check that the command exists and that you have permission to use it.
+[2025-02-08 00:46:17.127 ERROR] [Server] Unknown command: stio. Please check that the command exists and that you have permission to use it.
+[2025-02-08 00:46:18.384 INFO] [Server] Server stop requested.
+[2025-02-08 00:46:18.432 INFO] [Server] Stopping server...
+[2025-02-08 00:46:18.642 INFO] [BioManage] Disabling bio_management v0.4.0
+[2025-02-08 00:46:18.642 INFO] [BioManage] on_disable is called!

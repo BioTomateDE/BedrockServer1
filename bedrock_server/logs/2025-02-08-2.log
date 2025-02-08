@@ -1,0 +1,14 @@
+[2025-02-08 00:38:12.575 INFO] [EndstoneRuntime] Initialising...
+[2025-02-08 00:38:13.741 INFO] [Server] setting up server logging...
+[2025-02-08 00:38:13.746 INFO] [Server] Starting Server
+[2025-02-08 00:38:13.746 INFO] [Server] Version: 1.21.50.10
+[2025-02-08 00:38:13.746 INFO] [Server] Session ID: 8c30e4c2-6261-4acd-bec5-1330fb5f8a8e
+[2025-02-08 00:38:13.746 INFO] [Server] Build ID: 29566757
+[2025-02-08 00:38:13.746 INFO] [Server] Branch: r/21_u5
+[2025-02-08 00:38:13.746 INFO] [Server] Commit ID: 37da48010fdedb1b893d3a320c89e753f5b23a1b
+[2025-02-08 00:38:13.746 INFO] [Server] Configuration: Publish
+[2025-02-08 00:38:13.759 INFO] [Server] Level Name: Kit PvP
+[2025-02-08 00:38:13.766 INFO] [Server] No CDN config file found for dedicated server
+[2025-02-08 00:38:13.766 INFO] [Server] Game mode: 0 Survival
+[2025-02-08 00:38:13.766 INFO] [Server] Difficulty: 1 EASY
+[2025-02-08 00:38:13.782 INFO] [Server] Content logging to console is enabled.
